@@ -3,4 +3,4 @@
 
 
 ## Kokeillaan github sivuja. 
-Ei sen kummempaa. Ihan hyvä paikka vaikka staattisille sivuille.
+Ei sen kummempaa. Ihan hyvä paikka vaikka staattisille sivuille. Kivasti saa domaininkin halutessa yhdistettyä.
