@@ -3,4 +3,4 @@
 
 
 ## Kokeillaan github sivuja. 
-Ei sen kummempaa.
+Ei sen kummempaa. Ihan hyvä paikka vaikka staattisille sivuille.
